@@ -63,6 +63,10 @@ The project calculates the distribution of positive and negative
 customer feedback and identifies customers associated with negative
 feedback.
 
+### 📈 Sentiment Analysis Results
+
+![Sentiment Analysis Results](sentiment-analysis-results.png)
+
 ## 🚀 Future Improvements
 
 - Add healthcare-specific NLP models
